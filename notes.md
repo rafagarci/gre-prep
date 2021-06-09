@@ -4,7 +4,7 @@
 
 ### 1.1 Analyze an Issue
 
-You are given an issue and you discuss it with (usually) by being in favor or against it.
+You are given an issue and you discuss it (usually) by being in favor or against it.
 
 [YouTube Video 1][1]
 
@@ -110,7 +110,11 @@ Don't look like you know everything and remind the graders that you know what th
 
 ## Verbal Reasoning
 
+Consists of two sections, each with 20 questions and 30 minutes. This means that, on average, you should spend 1 minute and 30 seconds per question.
+
 ## Quantitative Reasoning
+
+Consists of two sections, each one with with 20 questions and 35 minutes. This means that, on average, you should spend 1.75 minutes/questions = 1 minute and 45 seconds.
 
 ## Unscored or Research Section
 
