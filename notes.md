@@ -52,13 +52,11 @@ Remind graders that you know what the task is
 
 #### 1.1.3 Key Points
 
-<ul>
-    <li>30 minutes</li>
-    <li>Suggested structure 5 paragraphs</li>
-    <li>Introduction</li>
-    <li>3 body paragraphs</li>
-    <li>Conclusion</li>
-</ul>
+- 30 minutes
+- Suggested structure 5 paragraphs
+- Introduction
+- 3 body paragraphs
+- Conclusion
 
 ### 1.2 Analyze an Argument
 
@@ -100,23 +98,21 @@ Don't look like you know everything and remind the graders that you know what th
 
 "Look, I can see why the author thinks this argument is valid since ..., BUT ..."
 
-<ul>
-    <li>30 minutes</li>
-    <li>Suggested structure 5 paragraphs</li>
-    <li>Introduction</li>
-    <li>3 body paragraphs</li>
-    <li>Conclusion</li>
-</ul>
+- 30 minutes
+- Suggested structure 5 paragraphs
+- Introduction
+- 3 body paragraphs
+- Conclusion
 
-## Verbal Reasoning
+## 2. Verbal Reasoning
 
 Consists of two sections, each with 20 questions and 30 minutes. This means that, on average, you should spend 1 minute and 30 seconds per question.
 
-## Quantitative Reasoning
+## 3. Quantitative Reasoning
 
 Consists of two sections, each one with with 20 questions and 35 minutes. This means that, on average, you should spend 1.75 minutes/questions = 1 minute and 45 seconds.
 
-## Unscored or Research Section
+## 4. Unscored or Research Section
 
 [//]: # (References)
 [1]: https://www.youtube.com/watch?v=m1iVFCjzVN0 (Issue Essay)
