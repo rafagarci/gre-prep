@@ -110,13 +110,23 @@ Consists of two sections, each with 20 questions and 30 minutes. This means that
 
 ## 3. Quantitative Reasoning
 
-Consists of two sections, each one with with 20 questions and 35 minutes. This means that, on average, you should spend 1.75 minutes/questions = 1 minute and 45 seconds.
+Consists of two sections, each one with with 20 questions and 35 minutes. This means that, on average, you should spend 1.75 minutes/question = 1 minute and 45 seconds.
 
 ## 4. Unscored or Research Section
 
 An additional quantitative or verbal section. This section does not count towards the final score. Test takers do not know which is the experimental section so they need to put equal effort in all sections. This section is used to test questions for future GREs.
 
+## 5. Other tips
+
+Very good [video][4] discussing general strategies and the GRE algorithm
+
+- Check time ocassionately, not all the time. Time management is key but don't allow it to distract you too much. The video above recommends checking every 5 - 10 minutes.
+
+- Do not skip your breaks. They help you review your strategies, relax, and clear your mind. All of these can improve your final test score.
+
+
 [//]: # (References)
 [1]: https://www.youtube.com/watch?v=m1iVFCjzVN0 (Issue Essay)
 [2]: https://www.youtube.com/watch?v=qRj0CAiIehs&ab_channel=KaplanPrepforGradSchoolKaplanPrepforGradSchoolVerified (Argument Essay)
 [3]: https://www.youtube.com/watch?v=XlbONynoJ0M&ab_channel=KaplanPrepforGradSchoolKaplanPrepforGradSchoolVerified (Issue essay 2)
+[4]: https://www.youtube.com/watch?v=jlRSsiJX8Cc&ab_channel=PrepScholarGRE (GRE strategies)
