@@ -114,6 +114,8 @@ Consists of two sections, each one with with 20 questions and 35 minutes. This m
 
 ## 4. Unscored or Research Section
 
+An additional quantitative or verbal section. This section does not count towards the final score. Test takers do not know which is the experimental section so they need to put equal effort in all sections. This section is used to test questions for future GREs.
+
 [//]: # (References)
 [1]: https://www.youtube.com/watch?v=m1iVFCjzVN0 (Issue Essay)
 [2]: https://www.youtube.com/watch?v=qRj0CAiIehs&ab_channel=KaplanPrepforGradSchoolKaplanPrepforGradSchoolVerified (Argument Essay)
