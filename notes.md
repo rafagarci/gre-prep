@@ -124,7 +124,6 @@ Very good [video][4] discussing general strategies and the GRE algorithm
 
 - Do not skip your breaks. They help you review your strategies, relax, and clear your mind. All of these can improve your final test score.
 
-
 [//]: # (References)
 [1]: https://www.youtube.com/watch?v=m1iVFCjzVN0 (Issue Essay)
 [2]: https://www.youtube.com/watch?v=qRj0CAiIehs&ab_channel=KaplanPrepforGradSchoolKaplanPrepforGradSchoolVerified (Argument Essay)
